@@ -9,7 +9,7 @@ Release date=April 21 2026
 EOL=August 6, 2026
 Based on=Ubuntu 24.04.4 LTS
 Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
-Status=Current oldstable release
+Status=oldstable release
 
 Version=1.1
 Codename=Viprin
@@ -17,7 +17,7 @@ Release date=April 24 2026
 EOL=October 15, 2026
 Based on=Ubuntu 26.04 LTS
 Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
-Status=Current stable release
+Status=Current oldstable release
 Codename announced date=April 24 2026
 
 Version=1.2
