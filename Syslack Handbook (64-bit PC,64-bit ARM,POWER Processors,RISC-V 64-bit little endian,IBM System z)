@@ -1,4 +1,11 @@
-1 Download debian 13 iso here https://www.debian.org/distrib/
+1 Download debian 13 iso here 
+
+For AMD64 https://www.debian.org/distrib/
+For ARM64 https://cdimage.debian.org/cdimage/archive/13.3.0/amd64/iso-dvd/
+For POWER Processors https://cdimage.debian.org/cdimage/archive/13.3.0/ppc64el/iso-cd/
+For RISC-V https://cdimage.debian.org/cdimage/archive/13.3.0/riscv64/iso-cd/
+For s390x https://cdimage.debian.org/cdimage/archive/13.3.0/s390x/iso-dvd/
+
 2 Flash the debian 13 iso
 3 Setup debian 13
 4 If tasksel select gnome and debian desktop environment deselect it just standard system utilities
