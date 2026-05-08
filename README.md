@@ -17,6 +17,7 @@ MIPS (little endian)
 64-bit MIPS (little endian)
 POWER Processors
 IBM System z
+RISC-V 64-bit little endian (riscv64)
 
 If You See theres 2 S Means Sysslack Some People thinks Its A Mistake But Its Not Mistake Because Sysslack means Sys Means System Base Then slack means slackware in ubuntu edition
 
