@@ -4,22 +4,19 @@
 Welcome To Syslack Its A Lightweight And Universal Linux Distro
 Syslack Linux Also Known As Syslax Its A Base With No Desktop Environment Its Based On Debian
 Syslack Linux Doesnt Need Iso Its A DIY Distro
-Syslack Doesnt Have A Graphical Install You Just Install Ubuntu Server First Then Configure It By Yourself
-Syslack is a lightweight base linux distro with no desktop environment by default but you can install it
 Syslack Linux is inspired from name Moe Szyslak From The Simpsons
 Syslack Linux supports a lot of hardware. Pick your processor architecture
 Syslack Linux is exclusively licensed under the GNU General Public License version 2 (GPL-2.0)
 
-x86_64 (aka amd64, x64, Intel 64)
-ARM64 (aka AArch64, ARMv8-A)
-IBM POWER
-s390x (aka IBM System/390, z/Architecture)
-riscv (aka RISC-V)
-Legacy x86 32 bit (aka 80x86, 8086 family)
-SPARC
-HP PA-RISC
-IA-64
-Mac (PowerPC) and IBM-PPC (POWER5)
+64-bit PC (amd64)
+64-bit ARM (AArch64)
+EABI ARM (armel)
+Hard Float ABI ARM (armhf)
+32-bit PC (i386)
+MIPS (little endian)
+64-bit MIPS (little endian)
+POWER Processors
+IBM System z 
 
 x86_64,ARM64,IBM POWER,s390x,RISC-V
 Syslack Linux For x86_64,ARM64,IBM POWER,s390x,RISC-V Have Very Minimal small base system 
