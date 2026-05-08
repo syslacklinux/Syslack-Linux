@@ -1,4 +1,10 @@
-1 Download Debian 12 ISO https://cdimage.debian.org/cdimage/archive/12.0.0/i386/iso-cd/
+1 Download Debian 12 ISO 
+
+For 32 Bit https://cdimage.debian.org/cdimage/archive/12.0.0/i386/iso-cd/
+For Armel https://cdimage.debian.org/cdimage/archive/12.0.0/armel/iso-dvd/
+For MIPS https://cdimage.debian.org/cdimage/archive/12.0.0/mipsel/
+For MIPS 64 Bit https://cdimage.debian.org/cdimage/archive/12.0.0/mips64el/
+
 2 Flash Debian 12 I386
 3 Setup Debian 12 I386
 4 If tasksel select gnome and debian desktop environment deselect it just standard system utilities
