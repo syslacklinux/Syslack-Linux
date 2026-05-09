@@ -19,6 +19,6 @@ POWER Processors
 IBM System z
 RISC-V 64-bit little endian (riscv64)
 
-If You See theres 2 S Means Sysslack Some People thinks Its A Mistake But Its Not Mistake Because Sysslack means Sys Means System Base Then slack means slackware in ubuntu edition
+If You See theres 2 S Means Sysslack Some People thinks Its A Mistake But Its Not Mistake Because Sysslack means Sys Means System Base Then slack means slackware in debian edition
 
 This Is a repository that is backup since i couldnt login to my main account Haikal02-alt
