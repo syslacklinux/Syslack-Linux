@@ -2,23 +2,30 @@
 
 # Syslack Linux
 Welcome To Syslack Its A Lightweight And Universal Linux Distro
-Syslack Linux Also Known As Syslax Its A Base With No Desktop Environment Its Based On Debian
+Syslack Linux Also Known As Syslax Its A Base With No Desktop Environment Its Based On Alpine Linux
 Syslack Linux Doesnt Need Iso Its A DIY Distro
 Syslack Linux is inspired from name Moe Szyslak From The Simpsons
 Syslack Linux supports a lot of hardware. Pick your processor architecture
 Syslack Linux is exclusively licensed under the GNU General Public License version 2 (GPL-2.0)
 
-64-bit PC (amd64)
-64-bit ARM (AArch64)
-EABI ARM (armel)
-Hard Float ABI ARM (armhf)
-32-bit PC (i386)
-MIPS (little endian)
-64-bit MIPS (little endian)
-POWER Processors
-IBM System z
-RISC-V 64-bit little endian (riscv64)
+Supported Architectures
 
-If You See theres 2 S Means Sysslack Some People thinks Its A Mistake But Its Not Mistake Because Sysslack means Sys Means System Base Then slack means slackware in debian edition
+x86_64
+
+x86
+
+aarch64
+
+armhf
+
+armv7
+
+loongarch64
+
+ppc64le
+
+riscv64
+
+s390x
 
 This Is a repository that is backup since i couldnt login to my main account Haikal02-alt
