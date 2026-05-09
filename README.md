@@ -10,22 +10,22 @@ Syslack Linux is exclusively licensed under the GNU General Public License versi
 
 Supported Architectures
 
-x86_64
+- x86_64
 
-x86
+- x86
 
-aarch64
+- aarch64
 
-armhf
+- armhf
 
-armv7
+- armv7
 
-loongarch64
+- loongarch64
 
-ppc64le
+- ppc64le
 
-riscv64
+- riscv64
 
-s390x
+- s390x
 
 This Is a repository that is backup since i couldnt login to my main account Haikal02-alt
