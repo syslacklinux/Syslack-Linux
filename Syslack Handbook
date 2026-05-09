@@ -1,0 +1,37 @@
+1 Download alpine linux iso https://alpinelinux.org/downloads/
+2 Flash iso
+3 Enter to live environment
+4 Login as root then run setup-alpine then setup alpine linux first
+5 When on APK Mirror type c and f
+6 After install login then run doas apk add nano
+7 If you are on GRUB run doas nano /etc/default/grub then change GRUB_TIMEOUT=2 to GRUB_TIMEOUT=5 Then change GRUB_DISABLE_RECOVERY=true to GRUB_DISABLE_RECOVERY=false
+  Then remove quiet from GRUB_CMDLINE_LINUX_DEFAULT="modules=sd-mod,usb-storage,ext4,bootpartition quiet rootfstype=ext4" to GRUB_CMDLINE_LINUX_DEFAULT="modules=sd-mod,usb-storage,ext4,bootpartition rootfstype=ext4"
+  Then add GRUB_DISTRIBUTOR="Syslack Linux"
+  Then ctrl x y enter then doas grub-mkconfig -o /boot/grub/grub.cfg
+  
+  If you are on syslinux run doas nano /boot/extlinux.conf
+  Then Change MENU TITLE Alpine/Linux Boot Menu To Syslack Linux then on MENU AUTOBOOT Change Alpine will be booted automatically in # seconds. to Syslack Linux will be booted automatically in # seconds then on APPEND root Remove quiet
+  Ctrl x y enter
+
+8 Run doas nano /etc/os-release
+  Then change This
+  NAME="Alpine Linux"
+  ID=alpine
+  VERSION_ID=3.23.4
+  PRETTY_NAME="Alpine Linux v3.23"
+  HOME_URL="https://alpinelinux.org/"
+  BUG_REPORT_URL="https://gitlab.alpinelinux.org/alpine/aports/-/issues"
+
+  To
+
+  NAME="Syslack Linux"
+  ID=syslack
+  VERSION_ID=1.4 (riot)
+  PRETTY_NAME="Syslack Linux 1.4 (riot)"
+  HOME_URL="https://github.com/syslacklinux/Syslack-Linux/"
+  BUG_REPORT_URL="https://github.com/syslacklinux/Syslack-Linux/issues/1"
+
+9 Run doas rm /etc/motd
+
+10 Run doas nano /etc/issue then change Welcome to Alpine Linux 3.23 To Welcome to Syslack Linux 1.4 (riot)
+                                        Kernel \r on \m (\l)            Kernel \r on \m (\l)
