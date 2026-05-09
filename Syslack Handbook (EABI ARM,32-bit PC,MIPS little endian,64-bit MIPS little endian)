@@ -16,7 +16,6 @@ For MIPS 64 Bit https://cdimage.debian.org/cdimage/archive/12.0.0/mips64el/
   Then change VERSION_ID 12 to 1.2
   Then change VERSION 12 (bookworm) to 1.2 (zoink)
   Then change VERSION_CODENAME bookworm to zoink
-  Remove DEBIAN_VERSION_FULL
   Change ID=debian to ID=syslack
   Change the HOME_URL To https://github.com/syslacklinux/Syslack-Linux
   Change the SUPPORT_URL To https://github.com/syslacklinux/Syslack-Linux/discussions/3
