@@ -6,7 +6,7 @@
 6 Run sudo nano /etc/lsb-release
   Then change DISTRIB_ID=Ubuntu To DISTRIB_ID=Syslack Linux
   Then change DISTRIB_RELEASE=6.06 To DISTRIB_RELEASE=1.5
-  Remove DISTRUB_CODENAME=triaxis
+  Change DISTRIB_CODENAME=dapper DISTRIB_CODENAME=triaxis
   Then Change DISTIB_DESCRIPTION="Ubuntu 6.06.1 LTS" To DISTRIB_DESCRIPTION="Syslack Linux"
 7 Run sudo nano /boot/grub/menu.lst then change timeout 3 to 5 then add # on hiddenmenu example # hiddenmenu
   on End Default Options Change title Ubuntu To Syslack Linux On Every Beginning Even recovery mode and memtest86+ then remove quiet splash
