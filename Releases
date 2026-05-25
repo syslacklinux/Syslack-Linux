@@ -35,7 +35,7 @@ Release date=May 9 2026
 EOL=September 15, 2026
 Based on=Debian 13
 Based on For 32 Bit=Debian 12
-Status=Current oldstable release
+Status=oldstable release
 Codename announced date=April 24 2026
 
 Version=1.4
@@ -43,23 +43,241 @@ Codename=Riot
 Release date=May 9 2026
 EOL=May 28 2027
 Based on=Alpine Linux
+Status=Current oldstable release
+Codename announced date=April 24 2026
+
+Version=1.5
+Codename=TriAxis
+Release date=May 25 2026
+EOL=TBA
+Based on=Ubuntu 26.04 LTS
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
 Status=Current stable release
 Codename announced date=April 24 2026
 
 Future Releases
-
-Version=1.5
-Codename=TriAxis
-Release date=TBA
-EOL=TBA
-Based on=TBA
-Status=Codename announced
-Codename announced date=April 24 2026
 
 Version=1.6
 Codename=SubZero
 Release date=TBA
 EOL=TBA
 Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
 Status=Codename announced
 Codename announced date=April 24 2026
+
+Version=1.7
+Codename=Meltdown
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 24 2026
+
+Version=1.8
+Codename=World
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 24 2026
+
+Version=1.9
+Codename=Lite
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 24 2026
+
+Version=1.10
+Codename=Doggie
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.11
+Codename=Partition
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.12
+Codename=Mulpan
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.13
+Codename=Cyclic
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.14
+Codename=Cyrillic
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.15
+Codename=MindCap
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.16
+Codename=Lorenzo
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.17
+Codename=Shaggy
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.18
+Codename=Subwoofer
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.19
+Codename=Rori
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=Codename announced
+Codename announced date=April 26 2026
+
+Version=1.20
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.21
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.22
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.23
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.24
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.25
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.26
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.27
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.28
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.29
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
+
+Version=1.30
+Codename=TBA
+Release date=TBA
+EOL=TBA
+Based on=TBA
+Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
+Status=TBA
+Codename announced date=TBA
