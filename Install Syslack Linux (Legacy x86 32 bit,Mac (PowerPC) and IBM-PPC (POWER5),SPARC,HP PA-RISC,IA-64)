@@ -27,8 +27,5 @@ deb-src http://old-releases.ubuntu.com/ubuntu dapper-updates main restricted uni
 deb http://old-releases.ubuntu.com/ubuntu dapper-security main restricted universe multiverse
 deb-src http://old-releases.ubuntu.com/ubuntu dapper-security main restricted universe multiverse
 
-deb http://old-releases.ubuntu.com/ubuntu dapper-backports main restricted universe multiverse
-deb-src http://old-releases.ubuntu.com/ubuntu dapper-backports main restricted universe multiverse
-
 Update package lists
 sudo apt-get update
