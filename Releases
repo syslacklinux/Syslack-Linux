@@ -63,9 +63,9 @@ Version=1.6
 Codename=SubZero
 Release date=TBA
 EOL=TBA
-Based on=TBA
+Based on=Ubuntu 26.10
 Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64)=Ubuntu 6.06.2 LTS
-Status=Codename announced
+Status=Base announced
 Codename announced date=April 24 2026
 
 Version=1.7
