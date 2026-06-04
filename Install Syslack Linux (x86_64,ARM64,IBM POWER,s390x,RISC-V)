@@ -1,7 +1,7 @@
 1 Download Ubuntu Server Iso https://ubuntu.com/download/server
 2 Flash Iso
 3 Setup Ubuntu Server
-4 Run sudo nano /etc/os-release
+4 After installation Run sudo nano /etc/os-release
    Then change PREETY_NAME="LTSVERSION LTS" To PREETY_NAME="Syslack Linux"
    Change NAME="Ubuntu" To NAME="Syslack Linux"
    Change VERSION="26.04 LTS (Resolute Racoon)" To VERSION="1.5" VERSION_ID="26.04" To VERSION_ID="1.5"
