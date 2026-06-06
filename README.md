@@ -6,7 +6,9 @@ Welcome To Syslack Its A Lightweight And Universal Linux Distro Syslack Linux Al
 x86_64 (aka amd64, x64, Intel 64) ARM64 (aka AArch64, ARMv8-A) IBM POWER s390x (aka IBM System/390, z/Architecture) riscv (aka RISC-V) Legacy x86 32 bit (aka 80x86, 8086 family) SPARC HP PA-RISC IA-64 Mac (PowerPC) and IBM-PPC (POWER5)
 
 x86_64,ARM64,IBM POWER,s390x,RISC-V Syslack Linux For x86_64,ARM64,IBM POWER,s390x,RISC-V Have Very Minimal small base system It contains system administration tools but no graphical environment which you need to install graphical environment manually using apt
+Init=systemd
 
 Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64 Syslack Linux For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64 Have Very Minimal small base system It contains system administration tools but no graphical environment which you need to install graphical environment manually using apt
+Init=System V (SysVinit)
 
 If You See theres 2 S Means Sysslack Some People thinks Its A Mistake But Its Not Mistake Because Sysslack means Sys Means System Base Then slack means slackware in ubuntu edition
