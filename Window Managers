@@ -1,0 +1,22 @@
+If you dont like desktop environment heres the window manager that available for syslack linux
+WindowManagers In Syslack Linux List
+-Fluxbox 
+-Blackbox 
+-WindowMaker 
+-IceWM
+-twm
+
+For fluxbox
+sudo apt install fluxbox -y
+
+For blackbox
+sudo apt install blackbox -y
+
+For WindowMaker
+sudo apt install wmaker -y
+
+For IceWM
+sudo apt install icewm -y
+
+For TWM
+sudo apt install twm -y
