@@ -1,0 +1,13 @@
+1 sudo nano /etc/apt/sources.list.d/ubuntu.sources
+2 change all text resolute to stonking
+3 exit then run sudo apt update && sudo apt upgrade && sudo apt full-upgrade && sudo apt autoremove -y
+4 before reboot run sudo nano /etc/os-release then change PRETTY_NAME="Syslack Linux" To PRETTY_NAME="Syslack Linux (Post-stable development Anaban)" then change VERSION_CODENAME=triaxis To VERSION_CODENAME=anaban
+5 Run sudo nano /etc/issue then change Syslack Linux \n \1 To Welcome to Syslack Linux. Kernel=\s \r \m then sudo rm /etc/issue.net
+6 Run sudo dmidecode -t bios For Bootloader If its UEFI is supported You Use rEFInd bootloader but if there is no UEFI is supported You will need to use GRUB2 + memtest86+
+  (If you are running UEFI it Support rEFInd) Run sudo apt install refind then sudo refind-install then then sudo cp /usr/share/pixmaps/syslack-logo.png /boot/efi/EFI/refind/icons/os_ubuntu.png
+  (If you are running Legacy BIOS since the rEFINd a popular, graphical boot manager does not natively run on older, pure Legacy BIOS systems (expect in UEFI mode), you probably do not need to install it.
+   Instead you'll need GRUB2 + memtest86+ which is a syslack linux x86_64,ARM64,IBM POWER,s390x,RISC-V bootloader designed to work with MBR/Legacy BIOS systems.) Note GRUB Is already installed in ubuntu so you have to sudo apt install memtest86+
+   Then sudo update-grub
+7 If you are running UEFI Run sudo nano /etc/default/grub then change GRUB_TIMEOUT=5 To GRUB_TIMEOUT=0 Then Change GRUB_TIMEOUT_STYLE=menu to GRUB_TIMEOUT_STYLE=hidden then sudo update-grub 
+  If its Legacy BIOS You Have To Keep It GRUB_TIMEOUT=5 And GRUB_TIMEOUT_STYLE=menu since rEFInd is not support with legacy bios and uses GRUB2 + Memtest86+ As Alternative
+8 Finally run sudo reboot
