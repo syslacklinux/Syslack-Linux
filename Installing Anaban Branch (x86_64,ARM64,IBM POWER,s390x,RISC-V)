@@ -11,3 +11,5 @@
 7 If you are running UEFI Run sudo nano /etc/default/grub then change GRUB_TIMEOUT=5 To GRUB_TIMEOUT=0 Then Change GRUB_TIMEOUT_STYLE=menu to GRUB_TIMEOUT_STYLE=hidden then sudo update-grub 
   If its Legacy BIOS You Have To Keep It GRUB_TIMEOUT=5 And GRUB_TIMEOUT_STYLE=menu since rEFInd is not support with legacy bios and uses GRUB2 + Memtest86+ As Alternative
 8 Finally run sudo reboot
+9 Run sudo apt install fortune nano ~/.bashrc then Use the arrow keys to scroll all the way to the very bottom of the file.Add a new line and type fortune
+10 Run sudo nano /etc/motd then add Linux 7.0.0-22-generic then ctrl x y enter
