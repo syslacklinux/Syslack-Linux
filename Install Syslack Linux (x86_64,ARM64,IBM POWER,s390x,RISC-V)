@@ -45,7 +45,7 @@
   sudo apt-mark hold snapd
 
 9 run sudo nano /etc/default/grub
-   (If You Need it) Change
+    Change
     GRUB_TIMEOUT=0 To GRUB_TIMEOUT=5 Then GRUB_TIMEOUT_STYLE=hidden to GRUB_TIMEOUT_STYLE=menu
     then Change GRUB_DISTRIBUTOR To GRUB_DISTRIBUTOR="Syslack Linux"
     Ctrl X Y Enter Then sudo update-grub
