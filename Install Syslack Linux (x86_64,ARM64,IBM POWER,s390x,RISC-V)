@@ -57,3 +57,10 @@
    Then change http://id.archive.ubuntu.com/ubuntu/
    To http://mirror.kku.ac.th/ubuntu/
    ctrl x y enter then sudo apt update
+
+12 links https://github.com/syslacklinux/Syslack-Linux-Archive/blob/main/starfield.png
+   then click starfield.png then save
+   then run sudo mv /home/syslack/starfield.png /usr/share/pixmaps
+   then run sudo nano /etc/default/grub
+   then add GRUB_BACKGROUND="/usr/share/pixmaps/starfield.png"
+   then sudo update-grub
