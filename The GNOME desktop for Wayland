@@ -2,3 +2,6 @@ The GNOME Series contains the GNOME desktop environment and related libraries.
 
 Installation sudo apt install task-gnome-desktop -y
 After install run sudo apt remove desktop-base -y
+
+When opening the terminal
+Open Preferences then change Palette Ubuntu To GNOME (Default) or change anything you want (If you want it) or you can keep the palette Ubuntu (If you want it)
