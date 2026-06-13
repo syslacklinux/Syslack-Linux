@@ -52,3 +52,8 @@
 
 10 Change Some Ubuntu To Syslack On /etc/issue on sudo nano /etc/issue If You See Ubuntu 26.04 LTS \n \1 Change it To Syslack Linux \n \1
    Also run sudo nano /etc/issue.net Then Change Ubuntu 26.04 LTS To Syslack Linux
+
+11 Run sudo nano /etc/apt/sources.list.d/ubuntu.sources
+   Then change http://id.archive.ubuntu.com/ubuntu/
+   To http://mirror.kku.ac.th/ubuntu/
+   ctrl x y enter then sudo apt update
