@@ -1,3 +1,4 @@
 The GNOME Series contains the GNOME desktop environment and related libraries.
 
 Installation sudo apt install task-gnome-desktop -y
+After install run sudo apt remove desktop-base -y
