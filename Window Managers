@@ -1,10 +1,12 @@
 If you dont like desktop environment heres the window manager that available for syslack linux
 WindowManagers In Syslack Linux List
+
 -Fluxbox 
 -Blackbox 
 -WindowMaker 
 -IceWM
 -twm
+-fvwm95
 
 For fluxbox
 sudo apt install fluxbox -y
@@ -20,3 +22,20 @@ sudo apt install icewm -y
 
 For TWM
 sudo apt install twm -y
+
+For fvwm95
+
+sudo apt install build-essential autoconf automake pkg-config xorg xinit xbitmaps libx11-dev libxt-dev libxext-dev libxpm-dev libreadline-dev libxmu-headers -y
+
+git clone https://github.com/Mintsuki/fvwm95.git
+
+cd fvwm95
+
+./bootstrap
+./configure --prefix=/usr/local
+make
+sudo make install
+
+In order to start fvwm95 with xinit, add the following to your ~/.xinitrc file:
+
+exec fvwm95
