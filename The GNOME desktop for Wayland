@@ -10,3 +10,7 @@ then sudo apt autoremove -y
 
 When opening the terminal
 Open Preferences then change Palette Ubuntu To GNOME (Default) or change anything you want (If you want it) or you can keep the palette Ubuntu (If you want it)
+
+If update are changing accent color to orange you can change the color back to blue
+
+pin gnome web evolution and text editor to dash like standard gnome
