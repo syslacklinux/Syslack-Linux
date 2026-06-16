@@ -7,7 +7,7 @@
    Change VERSION="26.04 LTS (Resolute Racoon)" To VERSION="1.5" VERSION_ID="26.04" To VERSION_ID="1.5"
    Change VERSION_CODENAME=noble To VERSION_CODENAME=triaxis
    Change ID=ubuntu to ID=syslack
-   Change ID_LIKE=debian to ID_LIKE="ubuntu debian"
+   Remove ID_LIKE=debian
    Change HOME_URL="https://ubuntu.com/" To HOME_URL="https://github.com/syslacklinux/Syslack-Linux"
    Change SUPPORT_URL="https://help.ubuntu.com/" To SUPPORT_URL="https://github.com/syslacklinux/Syslack-Linux/discussions/3"
    Change BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/" To BUG_REPORT_URL="https://github.com/syslacklinux/Syslack-Linux/issues/1"
