@@ -1,3 +1,4 @@
 LXDE is a ultra fast and ultra lightweight GTK+ based desktop environment for X.
 
-installation sudo apt install lxde -y
+For Both x86_64 And Legacy x86 32 bit
+Installation sudo apt install lxde -y
