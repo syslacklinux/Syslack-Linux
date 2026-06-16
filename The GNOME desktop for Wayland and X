@@ -19,3 +19,6 @@ For i686
 Make sure you have enough storage and ram
 
 Installation sudo apt install gnome-session gnome gdm gnome-terminal -y
+Then run sudo apt remove desktop-base -y
+Then run sudo apt purge desktop-base -y
+Then sudo apt autoremove -y
