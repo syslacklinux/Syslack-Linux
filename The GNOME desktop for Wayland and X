@@ -18,4 +18,4 @@ pin gnome web evolution and text editor to dash like standard gnome
 For i686
 Make sure you have enough storage and ram
 
-Installation sudo apt install gnome-session gnome gdm gnome-terminal vanilla-gnome-desktop vanilla-gnome-default-settings -y
+Installation sudo apt install gnome-session gnome gdm gnome-terminal -y
