@@ -64,3 +64,5 @@
    then run sudo nano /etc/default/grub
    then add GRUB_BACKGROUND="/usr/share/pixmaps/starfield.png"
    then sudo update-grub
+
+13 Install memtest86+ (If you are using Legacy BIOS 64 Bit Hardware) sudo apt install memtest86+ -y then sudo update-grub
