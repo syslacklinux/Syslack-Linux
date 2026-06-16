@@ -6,3 +6,9 @@ Then run sudo systemctl enable sddm then sudo systemctl start sddm
 Login to KDE Plasma then open konsole then run sudo apt install plasma-welcome konqueror sddm-theme-breeze -y
 Then on Login Screen SDDM select Breeze theme instead of Ubuntu Budgie
 Then sudo apt autoremove -y
+
+For i686
+
+Make sure you have enough storage and memory
+
+Installation sudo apt install plasma-desktop sddm konsole -y
