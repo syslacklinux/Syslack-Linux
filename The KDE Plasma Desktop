@@ -1,4 +1,4 @@
-The KDE series contains the KDE Plasma Desktop for Wayland.
+The KDE series contains the KDE Plasma Desktop for Wayland and X.
 
 Installation sudo apt install task-kde-desktop -y
 After install run sudo apt remove desktop-base -y then sudo apt purge desktop-base -y
