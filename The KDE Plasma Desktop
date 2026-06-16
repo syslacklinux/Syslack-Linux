@@ -1,9 +1,9 @@
 The KDE series contains the KDE Plasma Desktop for Wayland and X.
 
-Installation sudo apt install task-kde-desktop -y
+Installation sudo apt install task-kde-desktop konsole plasma-welcome konqueror sddm-theme-breeze  -y
 After install run sudo apt remove desktop-base -y then sudo apt purge desktop-base -y
 Then run sudo systemctl enable sddm then sudo systemctl start sddm
-Login to KDE Plasma then open konsole then run sudo apt install plasma-welcome konqueror sddm-theme-breeze -y
+Login to KDE Plasma
 Then on Login Screen SDDM select Breeze theme instead of Ubuntu Budgie
 Then sudo apt autoremove -y
 
