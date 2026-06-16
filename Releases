@@ -77,7 +77,7 @@ Architectures=x86_64 (aka amd64, x64, Intel 64) ARM64 (aka AArch64, ARMv8-A) IBM
 New Features=Switched Back The Base To Ubuntu
 New Features (Point Release 1.5.1)=added GRUB Background
 New Features (Point Release 1.5.2)=added KDE Plasma
-New Features (Point Release 1.5.3)=the Legacy x86 32 Bit will be raised to 18.04 i686 only
+New Features (Point Release 1.5.3)=the Legacy x86 32 Bit will be raised to 16.04 LTS i686 only
 Point Release date 1.5.1 and 1.5.2=June 13 2026
 Point Release date 1.5.3=June 16 2026
 
