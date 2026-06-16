@@ -11,4 +11,4 @@ For i686
 
 Make sure you have enough storage and memory
 
-Installation sudo apt install plasma-desktop sddm konsole xinit -y
+Installation sudo apt install plasma-desktop sddm konsole xinit plasma-discover -y
