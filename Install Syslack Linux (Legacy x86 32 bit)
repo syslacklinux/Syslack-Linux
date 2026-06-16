@@ -1,3 +1,5 @@
+Make sure you are on i686 Machine because if you tried to run modern packages or the kernel, missing instruction support caused crashes or incompatibility in i486 and i586.
+
 1 Download 32-bit PC (i386) server install image Server install image https://releases.ubuntu.com/16.04/
 2 On Software Selection leave it standard system utilities and enter
 3 After Install run sudo nano /etc/os-release then Change
