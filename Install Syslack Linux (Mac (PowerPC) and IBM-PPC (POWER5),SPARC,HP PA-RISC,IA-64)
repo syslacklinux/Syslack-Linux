@@ -1,4 +1,4 @@
-1 Download ISO http://old-releases.ubuntu.com/releases/6.06.0/ Then Select Server install CD Then Download Which architecture (NOT 64-bit PC AMD64)
+1 Download ISO http://old-releases.ubuntu.com/releases/6.06.0/ Then Select Server install CD Then Download Which architecture (NOT 32-bit PC or 64-bit PC)
 2 Flash The ISO From USB Stick
 3 When on installer menu select Install to the hard disk
 4 Setup ubuntu server 6.06
