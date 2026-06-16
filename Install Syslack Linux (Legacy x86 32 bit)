@@ -66,3 +66,16 @@ VERSION_CODENAME=triaxis
    then sudo update-grub
 
 12 Install memtest86+ (If you are using Legacy BIOS 32 Bit Hardware) sudo apt install memtest86+ -y then sudo update-grub
+
+13 Run sudo nano /etc/lsb-release then change
+   DISTRIB_ID=Ubuntu
+   DISTRIB_RELEASE=16.04
+   DISTRIB_CODENAME=xenial
+   DISTRIB_DESCRIPTION="Ubuntu 16.04.6 LTS"
+
+   To
+
+   DISTRIB_ID=Syslack Linux
+   DISTRIB_RELEASE=1.5
+   DISTRIB_CODENAME=triaxis
+   DISTRIB_DESCRIPTION="Syslack Linux"
