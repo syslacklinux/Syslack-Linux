@@ -14,3 +14,8 @@ Open Preferences then change Palette Ubuntu To GNOME (Default) or change anythin
 If update are changing accent color to orange you can change the color back to blue
 
 pin gnome web evolution and text editor to dash like standard gnome
+
+For i686
+Make sure you have enough storage and ram
+
+Installation sudo apt install gnome-session gnome gdm gnome-terminal vanilla-gnome-desktop vanilla-gnome-default-settings -y
