@@ -31,7 +31,7 @@
    sudo systemctl stop snapd
    sudo systemctl disable snapd
 
-  Purge Snapd (Recommended For Older Hardware Or Any Slow Hardware)
+  Purge Snapd (Recommended)
   sudo apt purge snapd
 
   Clean Up Leftover Directories
