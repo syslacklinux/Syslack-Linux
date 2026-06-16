@@ -1,4 +1,4 @@
-Make sure you are on i686 Machine because if you tried to run modern packages or the kernel, missing instruction support caused crashes or incompatibility in i486 and i586.
+Important: Make sure you are on an i686‑class CPU (Pentium Pro or newer). While the ISO is labeled i386, modern packages and kernels require i686 instructions. Attempting to run on i486/i586 will cause crashes or incompatibility.
 
 1 Download 32-bit PC (i386) server install image Server install image https://releases.ubuntu.com/16.04/
 2 On Software Selection leave it standard system utilities and enter
