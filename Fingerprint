@@ -1,0 +1,9 @@
+You can install Fingerprint in Syslack Linux
+Fingerprint is ideal for Hardware that have a fingerprint
+
+1 sudo apt update
+sudo apt install fprintd libpam-fprintd
+
+2 sudo pam-auth-update --enable fprintd
+
+3 fprintd-enroll
