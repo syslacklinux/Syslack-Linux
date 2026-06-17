@@ -1,0 +1,32 @@
+You can convert your USB stick (USB flash drive) into Syslack installation media.
+This is different from copying a file to the USB stick.
+Instead, use a specialized application to rewrite your USB stick with Ubuntu Server.
+Select an application depending on the system that you’re currently using.
+
+It is recommended to use Disks application and download the ISO
+For x86_64 https://ubuntu.com/download/server
+For i686 https://releases.ubuntu.com/16.04/ then select  32-bit PC (i386) server install image
+
+1 Open the Disks application. You can find it in the applications menu or by searching for “Disks”.
+
+2 Insert your USB stick. It appears in the sidebar. Select it there.
+
+3 Close all applications that access files or folders on the USB stick, including the file browser.
+
+4 In the Disks window header, click Drive Options (⋮) and select Restore Disk Image…
+
+5 Next to Image to Restore, select the downloaded Ubuntu Server image file.
+
+6 Click Start Restoring… and confirm. The application asks for your password.
+
+7 A progress bar appears while Disks is writing the image.
+
+8 When the progress bar finishes, click Eject this disk (⏏).
+
+9 Before entering to live ensure you backup your data with backup usb after backup all your files eject the backup usb then unplug the backup usb
+
+10 Run sudo rm -rf /* on your previous Linux Distro (DAANGEROUS I DO NOT RECOMMEND IT)
+
+11 Boot into Ubuntu Server Installer
+
+12 Have fun and start installing
