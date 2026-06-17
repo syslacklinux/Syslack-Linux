@@ -62,3 +62,16 @@
    then sudo update-grub
 
 12 Install memtest86+ (If you are using Legacy BIOS 64 Bit Hardware) sudo apt install memtest86+ -y then sudo update-grub
+
+13 Run sudo nano /etc/lsb-release then change
+   DISTRIB_ID=Ubuntu
+   DISTRIB_RELEASE=26.04
+   DISTRIB_CODENAME=resolute
+   DISTRIB_DESCRIPTION="Ubuntu 26.04 LTS"
+
+   To
+
+   DISTRIB_ID=Syslack Linux
+   DISTRIB_RELEASE=1.5
+   DISTRIB_CODENAME=triaxis
+   DISTRIB_DESCRIPTION="Syslack Linux"
