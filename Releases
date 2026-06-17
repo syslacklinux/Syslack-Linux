@@ -79,8 +79,9 @@ New Features=Switched Back The Base To Ubuntu
 New Features (Point Release 1.5.1)=added GRUB Background
 New Features (Point Release 1.5.2)=added KDE Plasma
 New Features (Point Release 1.5.3)=the Legacy x86 32 Bit will be raised to Ubuntu Server 16.04 LTS i686 only
+New Features (Point Release 1.5.4)=dropped KDE Plasma due to i686 32 bit KDE Doesnt have a sound so the Syslack will dropping KDE Plasma
 Point Release date 1.5.1 and 1.5.2=June 13 2026
 Point Release date 1.5.3=June 16 2026
-
+Point Release date 1.5.4=June 17 2026
 
 The next release of Syslack is codenamed "SubZero" no release date has been set the base system is Ubuntu 26.10 but not anymore it reversed it to 26.04.1 point release
