@@ -42,11 +42,9 @@ Codename announced date=April 24 2026
 Architectures=Same As Debian 13 And 12
 New Features=Switched Base from ubuntu to Debian
 
-Current Releases
-
 Version=1.3
 Codename=Sunix
-Release date=May 9 2026
+Release date=June 17 2026
 EOL=September 15, 2026
 Based on=Debian 13 Trixie
 Based on For 32 Bit=Debian 12 Bookworm
@@ -57,13 +55,15 @@ New Features=Changed init system systemd to openrc for EABI ARM,32-bit PC,MIPS l
 
 Version=1.4
 Codename=Riot
-Release date=May 9 2026
+Release date=June 17 2026
 EOL=May 28 2027
 Based on=Alpine Linux
 Status=Current oldstable release
 Codename announced date=April 24 2026
 Architectures=Same As Alpine Linux
 New Features=Switched Base from debian to alpine linux
+
+Current Releases
 
 Version=1.5
 Codename=TriAxis
