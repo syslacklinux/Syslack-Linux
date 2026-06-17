@@ -7,6 +7,7 @@ then sudo apt install gnome-backgrounds -y
 then sudo apt install vanilla-gnome-desktop -y
 then sudo apt purge desktop-base -y
 then sudo apt autoremove -y
+then sudo apt install gnome-boxes -y
 
 When opening the terminal
 Open Preferences then change Palette Ubuntu To GNOME (Default) or change anything you want (If you want it) or you can keep the palette Ubuntu (If you want it)
