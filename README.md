@@ -17,3 +17,5 @@ Legacy x86 32 bit (i686) Syslack Linux For 32 Bit Also Have Very Minimal small b
 Init=systemd
 
 Syslack Linux is exclusively licensed under the GNU General Public License version 2 (GPL-2.0)
+
+Discord Server=https://discord.gg/PJcHcDehm
