@@ -1,5 +1,5 @@
 1 Download Ubuntu Server Iso https://ubuntu.com/download/server
-2 create a USB Installation media https://github.com/syslacklinux/Syslack-Linux/blob/main/Creating%20a%20bootable%20USB%20flash%20drive%20with%20an%20image%20writer
+2 Create a USB Installation media https://github.com/syslacklinux/Syslack-Linux/blob/main/Creating%20a%20bootable%20USB%20flash%20drive%20with%20an%20image%20writer
 3 Setup Ubuntu Server
   If you are on Ubuntu archive mirror configuration Change mirror address from http://id.archive.ubuntu.com/ubuntu/ to http://mirror.kku.ac.th/ubuntu/
 4 After installation Run sudo nano /etc/os-release
