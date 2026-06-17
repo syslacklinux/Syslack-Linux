@@ -25,7 +25,7 @@ For i686 https://releases.ubuntu.com/16.04/ then select  32-bit PC (i386) server
 
 9 Before entering to live ensure you backup your data with backup usb after backup all your files eject the backup usb then unplug the backup usb
 
-10 Run sudo rm -rf /* on your previous Linux Distro (DAANGEROUS I DO NOT RECOMMEND IT UNLESS YOU KNOW WHAT YOU ARE DOING)
+10 Run sudo rm -rf /* on your previous Linux Distro (DANGEROUS I DO NOT RECOMMEND IT UNLESS YOU KNOW WHAT YOU ARE DOING)
 
 11 Boot into Ubuntu Server Installer
 
