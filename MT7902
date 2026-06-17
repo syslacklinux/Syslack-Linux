@@ -1,0 +1,28 @@
+The MT7902 Driver does not support linux and Syslack Linux
+However thanks to hmtheboy154 for mt7902 drivers
+
+
+Installation
+
+Install these first sudo apt update
+                    sudo apt install -y git dkms bc build-essential linux-headers-$(uname -r)
+
+1 git clone https://github.com/hmtheboy154/mt7902
+  cd mt7902
+
+2 sudo make install -j$(nproc)
+
+3 sudo make install_fw
+
+4 sudo modprobe mt7902e
+
+For bluetooth
+
+1 git clone https://github.com/hmtheboy154/mt7902 -b bluetooth_backport btusb_mt7902
+  cd btusb_mt7902
+
+2 sudo make install -j$(nproc)
+
+3 sudo make install_fw
+
+4 Reboot
