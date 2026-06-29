@@ -75,3 +75,5 @@
    DISTRIB_RELEASE=1.5
    DISTRIB_CODENAME=triaxis
    DISTRIB_DESCRIPTION="Syslack Linux"
+
+14 Run sudo apt-mark hold lsb-release
