@@ -13,7 +13,7 @@ If update are changing accent color to orange you can change the color back to b
 
 pin gnome web evolution and text editor to dash like standard gnome
 
-If there is memtest86+ but you are running UEFI you can remove with sudo apt purge memtest86+ -y then sudo update-grub then sudo apt autoremove -y (UNLESS YOU ARE RUNNING ON LEGACY BIOS)
+If there is memtest86+ but you are running UEFI you can remove with sudo apt purge memtest86+ -y then sudo apt autoremove -y (UNLESS YOU ARE RUNNING ON LEGACY BIOS)
 
 If the gdm color yellow donload gdm settings on flathub then change appearance accent color orange to blue then go to login screen then enable logo then use the logo /usr/share/pixmaps/syslack-logo.png then logout or reboot
 
