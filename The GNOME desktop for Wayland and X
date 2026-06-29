@@ -18,7 +18,7 @@ If there is memtest86+ but you are running UEFI you can remove with sudo apt pur
 If the gdm color orange donload gdm settings on flathub if flathub not availble even it was already installed run flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo then reboot then change appearance accent color orange to blue then go to login screen then enable logo then use the logo /usr/share/pixmaps/syslack-logo.png then logout or reboot
 
 For i686
-Make sure you have enough storage and ram
+Make sure you have enough storage and ram or you will ended up with lxde or window managers or keeping very minimal no graphical environment
 
 Installation sudo apt install gnome-session gnome gdm gnome-terminal gnome-software -y
 Then run sudo apt remove desktop-base -y
