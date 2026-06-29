@@ -1,6 +1,6 @@
 The GNOME Series contains the GNOME desktop environment and related libraries.
 
-Installation sudo apt install task-gnome-desktop gnome-backgrounds vanilla-gnome-desktop gnome-boxes gnome-shell-extensions -y
+Installation sudo apt install task-gnome-desktop gnome-backgrounds vanilla-gnome-desktop gnome-boxes gnome-shell-extensions gnome-tour -y
 After install run sudo apt remove desktop-base -y
 then sudo apt autoremove -y
 then sudo apt purge desktop-base -y
