@@ -25,3 +25,10 @@ Then run sudo apt remove desktop-base -y
 Then run sudo apt purge desktop-base -y
 Then sudo apt autoremove -y
 Then Add GNOME Software to Favorites
+
+Enabling Display Manager
+
+For both x86_64 and i686
+
+sudo systemctl enable gdm
+sudo systemctl start gdm
