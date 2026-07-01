@@ -13,4 +13,4 @@ For both x86_64 and i686
 sudo systemctl enable lightdm
 sudo systemctl start lightdm
 
-NOTE=Syslack Linux with LXDE installs GNOME Software by default
+NOTE=Syslack Linux with LXDE installs GNOME Software by default but if its heavy you dont need to install it
