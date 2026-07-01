@@ -7,7 +7,7 @@ None means there is no codename
 EOL date for both current oldstable release and oldstable release will be added after the next release is released and become current stable release
 
 Historic releases
-(Note: The Syslack releases here are no longer supported or maintained, so they do not receive bug fixes or security updates. i do not recommend using these releases any more. To obtain the latest, supported version of Syslack)
+(Note: These releases are no longer maintained, supported, or updated with security hotfixes. Continued use is not recommended.)
 
 Version=1.0
 Codename=none
