@@ -20,6 +20,8 @@ Init=System V (SysVinit)
 i686 Syslack Linux For 32 Bit Also Have Very Minimal small base system It contains system administration tools but no graphical environment which you need to install graphical environment manually using apt
 Init=systemd
 
+Syslack Linux Releases follows the philosophy that it will be released "when it is ready."
+
 Syslack Linux is exclusively licensed under the GNU General Public License version 2 (GPL-2.0)
 
 Discord Server=https://discord.gg/PJcHcDehm
