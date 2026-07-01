@@ -77,10 +77,3 @@
    DISTRIB_DESCRIPTION="Syslack Linux"
 
 14 Run sudo apt-mark hold lsb-release
-
-15 Run sudo apt install doas -y
-   Then sudo nano /etc/doas.conf
-   Then Define User Permissions
-   Standard Rule (Requires your password) permit keepenv your_username as root
-   No-Password Rule (Executes instantly) permit nopass keepenv your_username as root
-   Run sudo passwd root after finishing root password then su - then apt remove sudo then apt purge sudo then apt autoremove then exit the root
