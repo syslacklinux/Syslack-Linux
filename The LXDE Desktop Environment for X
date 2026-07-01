@@ -1,7 +1,7 @@
 LXDE is a ultra fast and ultra lightweight GTK+ based desktop environment for X.
 
 For Both x86_64 And i686
-Installation sudo apt install lxde -y
+Installation sudo apt install lxde gnome-software -y
 
 Lightdm
 Syslack Linux x86_64 uses LightDM GTK Greeter by Default
@@ -12,3 +12,5 @@ Enabling Display Manager
 For both x86_64 and i686
 sudo systemctl enable lightdm
 sudo systemctl start lightdm
+
+NOTE=Syslack Linux with LXDE installs GNOME Software by default
