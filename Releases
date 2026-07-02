@@ -18,6 +18,7 @@ Based on (For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-R
 Status=obsolete release
 Architectures=x86_64 (aka amd64, x64, Intel 64) ARM64 (aka AArch64, ARMv8-A) IBM POWER s390x (aka IBM System/390, z/Architecture) riscv (aka RISC-V) Legacy x86 32 bit (aka 80x86, 8086 family) SPARC HP PA-RISC IA-64 Mac (PowerPC) and IBM-PPC (POWER5)
 New Features=Based On Ubuntu 24.04.4 LTS the first syslack linux version
+Kernel Version=6.8.x (Default),6.17.x (If using HWE Kernel)
 
 Version=1.1
 Codename=Viprin
@@ -29,6 +30,7 @@ Status=obsolete release
 Codename announced date=April 24 2026
 Architectures=x86_64 (aka amd64, x64, Intel 64) ARM64 (aka AArch64, ARMv8-A) IBM POWER s390x (aka IBM System/390, z/Architecture) riscv (aka RISC-V) Legacy x86 32 bit (aka 80x86, 8086 family) SPARC HP PA-RISC IA-64 Mac (PowerPC) and IBM-PPC (POWER5)
 New Features=Linux 7.0 kernel Dual-track system for container stacks: traditional with regular major updates, or stable to maintain consistent versions of core components Valkey 9, PostgreSQL 18, MySQL and MariaDB as long-term supported versions, and the introduction of DocumentDB
+Kernel Version=7.0
 
 Version=1.2
 Codename=Zoink
@@ -40,6 +42,7 @@ Status=obsolete release
 Codename announced date=April 24 2026
 Architectures=Same As Debian 13 And 12
 New Features=Switched Base from ubuntu to Debian
+Kernel Version=6.12
 
 Version=1.3
 Codename=Sunix
@@ -51,6 +54,7 @@ Status=oldstable release
 Codename announced date=April 24 2026
 Architectures=Same as Debian 13 And 12
 New Features=Changed init system systemd to openrc for EABI ARM,32-bit PC,MIPS little endian,64-bit MIPS little endian
+Kernel Version=6.12
 
 Version=1.4
 Codename=Riot
@@ -61,6 +65,7 @@ Status=obsolete release
 Codename announced date=April 24 2026
 Architectures=Same As Alpine Linux
 New Features=Switched Base from debian to alpine linux
+Kernel Version=6.18 LTS
 
 Current Releases
 
@@ -82,6 +87,7 @@ New Features (Point Release 1.5.4)=dropped KDE Plasma due to i686 32 bit KDE Doe
 Point Release date 1.5.1 and 1.5.2=June 13 2026
 Point Release date 1.5.3=June 16 2026
 Point Release date 1.5.4=June 17 2026
+Kernel Version=7.0
 
 Next Release
 
@@ -98,3 +104,4 @@ Codename announced date=April 24 2026
 Architectures=x86_64 (aka amd64, x64, Intel 64) ARM64 (aka AArch64, ARMv8-A) IBM POWER s390x (aka IBM System/390, z/Architecture) riscv (aka RISC-V) Legacy x86 32 bit (aka 80x86, 8086 family) SPARC HP PA-RISC IA-64 Mac (PowerPC) and IBM-PPC (POWER5) 16 Bit (8086)
 New Features=New Architecture Based On ELKS 16 Bit (8086) 
              Changed /etc/issue from Syslack Linux \n \1 To \s \r \m \n \l and removed /etc/issue.net returned the /etc/motd and added fortune and bsdgames like slackware
+Kernel Version=7.2
