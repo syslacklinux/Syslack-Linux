@@ -54,7 +54,7 @@ New Features=Changed init system systemd to openrc for EABI ARM,32-bit PC,MIPS l
 
 Version=1.4
 Codename=Riot
-Release date=June 17 2026
+Release date=May 9 2026
 EOL=June 22 2026
 Based on=Alpine Linux
 Status=obsolete release
