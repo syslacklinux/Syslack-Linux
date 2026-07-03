@@ -4,6 +4,6 @@
 4 before reboot run sudo nano /etc/os-release then change PRETTY_NAME="Syslack Linux" To PRETTY_NAME="Syslack Linux (Post-stable development Anaban)" then change VERSION_CODENAME=triaxis To VERSION_CODENAME=anaban
 5 Run sudo nano /etc/issue then change Syslack Linux \n \1 To \s \r \m \n \l then sudo rm /etc/issue.net
 6 Finally run sudo reboot
-7 Run sudo apt install fortune nano ~/.bashrc then Use the arrow keys to scroll all the way to the very bottom of the file.Add a new line and type fortune
+7 Run sudo apt install bsdgames fortune then nano ~/.bashrc then Use the arrow keys to scroll all the way to the very bottom of the file.Add a new line and type fortune
 8 Run sudo nano /etc/motd then add Linux 7.0.0-22-generic then ctrl x y enter
 9 Run sudo nano /etc/lsb-release then change DISTRIB_RELEASE=1.5 to DISTRIB_RELEASE=(Post-stable development Anaban) then change DISTRIB_CODENAME=triaxis to DISTRIB_CODENAME=anaban
