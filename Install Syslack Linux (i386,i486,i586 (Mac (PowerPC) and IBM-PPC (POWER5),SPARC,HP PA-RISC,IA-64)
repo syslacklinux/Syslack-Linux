@@ -14,6 +14,7 @@
   never update grub because you don’t actually need to run sudo update-grub since Syslack Linux For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64 uses grub legacy Which GRUB legacy reads menu.lst directly at boot, so changes take effect immediately.
 8 Run sudo nano /etc/issue then change Ubuntu 6.06.1 LTS \n \l To Syslack Linux \n \l
   Then change sudo nano /etc/issue.net then change Ubuntu 6.06.1 LTS To Syslack Linux
+  Then echo "base-files hold" | sudo dpkg --set-selections
 9 Run sudo rm /etc/motd
 10 Edit apt sources using sudo nano /etc/apt/sources.list
    Then remove Line commented out by installer and Replace existing lines with old-releases URLs
