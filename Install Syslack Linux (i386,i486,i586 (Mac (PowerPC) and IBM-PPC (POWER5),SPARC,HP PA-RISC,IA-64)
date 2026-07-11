@@ -8,6 +8,7 @@
   Then change DISTRIB_RELEASE=6.06 To DISTRIB_RELEASE=1.5
   Change DISTRIB_CODENAME=dapper DISTRIB_CODENAME=triaxis
   Then Change DISTIB_DESCRIPTION="Ubuntu 6.06.1 LTS" To DISTRIB_DESCRIPTION="Syslack Linux"
+  Then echo "lsb-release hold" | sudo dpkg --set-selections
 7 Run sudo nano /boot/grub/menu.lst then change timeout 3 to 5 then add # on hiddenmenu example #hiddenmenu
   on End Default Options Change title Ubuntu To Syslack Linux On Every Beginning Even recovery mode and memtest86+ then remove quiet splash
   never update grub because you don’t actually need to run sudo update-grub since Syslack Linux For Legacy x86 32 bit,Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64 uses grub legacy Which GRUB legacy reads menu.lst directly at boot, so changes take effect immediately.
