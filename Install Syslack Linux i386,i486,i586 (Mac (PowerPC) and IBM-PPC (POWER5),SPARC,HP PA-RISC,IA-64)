@@ -1,4 +1,4 @@
-1 Download ISO http://old-releases.ubuntu.com/releases/6.06.0/ Then Select Server install CD Then Download Which architecture (NOT 32-bit PC or 64-bit PC)
+1 Download ISO http://old-releases.ubuntu.com/releases/6.06.0/ Then Select Server install CD Then Download Which architecture PC (Intel x86) server i386 i486 i586 Mac (PowerPC) and IBM-PPC (POWER5) SPARC HP PA-RISC IA-64 (NOT i686 or 64-bit PC)
 2 Flash The ISO From USB Stick
 3 When on installer menu select Install to the hard disk
 4 Setup ubuntu server 6.06
