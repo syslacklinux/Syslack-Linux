@@ -34,3 +34,5 @@ deb-src http://old-releases.ubuntu.com/ubuntu dapper-backports main restricted u
 
 Update package lists
 sudo apt-get update
+
+Then sudo apt-get upgrade
