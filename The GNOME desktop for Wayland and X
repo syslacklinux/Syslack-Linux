@@ -32,3 +32,15 @@ For both x86_64 and i686
 
 sudo systemctl enable gdm
 sudo systemctl start gdm
+
+For i386,i486,i586 (Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64
+sudo apt-get install ubuntu-desktop gnome-session gnome-panel gnome-terminal gdm
+sudo reboot
+Then options then select session GNOME
+The open Desktop Background Preferences Then Select GNOME Related thing not UBUNTU Example GNOME Curves
+Open Themes Then Change Human into Clearlooks
+Open Login window Preferences Then change Human To Bijou
+Open Screensaver Preferences then change screensaver random to Floating Feet
+Run sudo apt-get install gnome-art
+Then open GNOME Splash Screen Preference then Install from /usr/share/pixmaps/splash/gnome-splash.png then activate
+Then Disable Login and Logout Sound Leaving it No Sound
