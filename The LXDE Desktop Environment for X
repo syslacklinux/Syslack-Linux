@@ -14,3 +14,5 @@ sudo systemctl enable lightdm
 sudo systemctl start lightdm
 
 Note: GNOME Software is packaged by default with LXDE on Syslack. If you notice severe performance degradation or heavy resource use, you can skip adding gnome-software.
+
+Warning its only works on x86_64 and i686 and it will not work on i386,i486,i586 (Mac (PowerPC) and IBM-PPC (POWER5),SPARC,HP PA-RISC,IA-64 because of the old repository
