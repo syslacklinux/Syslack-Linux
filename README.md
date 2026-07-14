@@ -25,3 +25,5 @@ Syslack Linux Releases follows the philosophy that it will be released "when it 
 Syslack Linux is exclusively licensed under the GNU General Public License version 2 (GPL-2.0)
 
 Discord Server=https://discord.gg/PJcHcDehm
+
+This is a Standard Version Based On Ubuntu for Multiarch https://github.com/syslacklinux/Syslack-Multiarch/
