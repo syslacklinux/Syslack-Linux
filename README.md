@@ -1,5 +1,7 @@
 <img width="1238" height="236" alt="Screenshot From 2026-01-31 16-31-30" src="https://github.com/user-attachments/assets/3fb3c0d3-784e-46f0-b862-6fd822089d3e" />
 
+# THIS PROJECT IS DISCONTINUED AND ABANDONED AS OF JULY 26 2026 BECAUSE OF HATE ON TIKTOK SO YOU ARE RECOMMENDED TO SWITCH TO FORSAKEN LINUX INSTEAD! Link https://github.com/syslacklinux/Forsaken-Linux
+
 # Syslack Linux
 A Simple Lightweight Best real and Official Linux Distribution 
 
